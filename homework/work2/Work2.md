@@ -3,7 +3,7 @@
 <hr/>
 
 ## 1.請寫一個程式可以印出指定數量的 * 號
-## 檔案：star.js
+## 檔案：[star.js](https://github.com/weng0418/wp109b/blob/main/homework/work2/star.js)
 ### 程式碼
 
 ```
@@ -20,7 +20,7 @@ star(5)
 <hr/>
 
 ## 2.請寫一個函數可以印出 a..b 之間的所有整數
-# 檔案：between.js
+# 檔案：[between.js](https://github.com/weng0418/wp109b/blob/main/homework/work2/between.js)
 ### 程式碼
 
 ```
@@ -35,7 +35,7 @@ between(3,15)
 <hr/>
 
 ## 3.請寫一個函數可以印出 a..b 之間的所有整數
-# 檔案:primeBetween.js
+# 檔案:[primeBetween.js](https://github.com/weng0418/wp109b/blob/main/homework/work2/primBetween.js)
 ### 程式碼
 
 ```
