@@ -35,7 +35,7 @@ between(3,15)
 <hr/>
 
 ## 3.請寫一個函數可以印出 a..b 之間的所有整數
-# 檔案:primeBetween
+# 檔案:primeBetween.js
 ### 程式碼
 
 ```
