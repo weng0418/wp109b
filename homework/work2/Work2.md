@@ -1,4 +1,7 @@
 # 作業２
+
+<hr/>
+
 ## 1.請寫一個程式可以印出指定數量的 * 號
 ## 檔案：star.js
 ### 程式碼
@@ -14,6 +17,8 @@ star(5)
 ### 執行結果：
 <img src="../jpg/1.png"  align=center /> 
 
+<hr/>
+
 ## 2.請寫一個函數可以印出 a..b 之間的所有整數
 # 檔案：between.js
 ### 程式碼
@@ -27,6 +32,7 @@ between(3,15)
 ### 執行結果：
 <img src="../jpg/2.png"  align=center /> 
 
+<hr/>
 
 ## 3.請寫一個函數可以印出 a..b 之間的所有整數
 # 檔案:primeBetween
