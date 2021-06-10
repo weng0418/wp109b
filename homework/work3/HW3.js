@@ -1,12 +1,3 @@
-# 作業3
-
-<hr/>
-
-## 請寫出一個具有『加、減、內積、負』的向量物件？ (Vector, add, sub, dot, neg)
-## 檔案：[HW3.js](https://github.com/weng0418/wp109b/blob/main/homework/work3/HW3.js)
-### 程式碼:
-
-```
 class Vector{
     constructor(array){
         this.a=array
@@ -53,6 +44,3 @@ console.log('x.add(y)=',x.add(y))
 console.log('x.sub(y)=',x.sub(y))
 console.log('x.dot(y)=',x.dot(y))
 console.log('x.neg()=',x.neg())
-```
-### 執行結果：
-<img src="../jpg/HW3.png"  align=center /> 
