@@ -2,11 +2,11 @@
 ## 參考資料
 程式修改自Youtube上的教學影片
 
-https://www.youtube.com/watch?v=KlgHTOfD8Y0&t
+https://youtu.be/KlgHTOfD8Y0
 
-https://www.youtube.com/watch?v=PJxxk1kifhE
+https://youtu.be/gaG9ObrhnO8
 
-https://www.youtube.com/watch?v=gaG9ObrhnO8&t
+https://youtu.be/PJxxk1kifhE
 ## 功能
 
 遊戲包含方向移動
